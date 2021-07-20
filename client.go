@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/google/uuid"
 	"chatApplication/config"
 	"chatApplication/models"
+	"github.com/google/uuid"
 
 	"github.com/gorilla/websocket"
 )
